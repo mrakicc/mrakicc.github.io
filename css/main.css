@@ -1,0 +1,222 @@
+#textWeb {
+    background-color: #96616b;
+}
+
+#junior {
+    background-color: #6daebd;
+}
+
+#medior {
+    background-color: #759eb8;
+}
+
+#senior {
+    background-color: #40687d;
+}
+
+#seniorSlika {
+    height: 150px;
+}
+img{
+    height: 150px;
+}
+#opis{
+    color: #e4d0d0;
+    font-size: larger;
+}
+#paketiBoja{
+    color: #96616b;
+    text-shadow: 2px 0px 10px #96616b;
+}
+#opisPaketa{
+    color: #96616b;
+    font-size: larger;
+}
+#naslovBusiness{
+    color: #40687d;
+    text-shadow: 2px 1px black;
+}
+#textWeb {
+    background-color: #96616b;
+}
+
+#junior {
+    background-color: #6daebd;
+}
+
+#medior {
+    background-color: #759eb8;
+}
+
+#senior {
+    background-color: #40687d;
+}
+
+#seniorSlika {
+    width: 400px;
+    padding-right: 50px;
+}
+img{
+    height: 150px;
+}
+#navbarLogo{
+    margin-left: 5vw;
+    width: 150px;
+}
+#naslov{
+    color:#40687d;
+    font-weight:bold ;
+    text-shadow: 2px 0px black;
+}
+#textWeb p {
+    color: #e4d0d0;
+    font-size:larger;
+}
+#paketiNaslov{
+    color: #96616b;
+    text-shadow: -2px 0px 10px #96616b;
+}
+p{
+    color: #96616b;
+    font-size: larger;
+    font-weight: 600;
+}
+.row
+{
+    color: #f5ebeb;
+}
+#logoTekst{
+    font-size:xx-large;
+    text-shadow: 2px 2px 10px black;
+    color:#40687d;
+}
+footer p{
+    font-weight: 600;
+}
+body{
+    background-color: rgb(183, 133, 229);
+}
+a{
+    text-decoration: none;
+    color: white;
+}*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #f5ebeb;
+    
+}
+#navbarNav{
+    margin-left: 50vw;
+}
+#navbarItems{
+    width: 30vw;
+}
+#navbarLogo{
+    margin-left: 5vw;
+    width: 150px;
+}
+#navbarGlavni{
+    min-height: 120px;
+    background-color: #e4d0d0;
+}
+#glavniDeo{
+    margin-left: 6vw;
+    padding-left: 0;
+    margin-right: 6vw;
+}
+li{
+    font-weight:700;
+    font-size:larger;
+}
+#glavnaSlika{
+    width: 100%;
+    max-height: 60vh;
+    height: 100%;
+    object-fit: fill;
+}
+.ponuda
+{
+    background-color: #759eb8;
+}
+.istaknuto
+{
+    background-color: #96616b;
+}
+.istaknutoPlavo{
+    background-color: #40687d;
+}
+table{
+    margin-left: 20vw;
+    background-color: #e4d0d0;
+    
+}
+#prelaziteDiv{
+    background-color: #193f51;
+    color: white;
+}
+#pismo{
+    height: 20vh;
+}
+#dugme
+{
+    height:60px;
+    width: 100px;
+    background-color: #759eb8;
+    font-weight: 700;
+}
+footer{
+    background-color: #e4d0d0;
+    padding: 50px 120px;
+}
+#slikaFooter{
+    height: 70px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.rozeGlavno{
+    color: #96616b;
+    text-shadow: 1px 2px black;
+}
+.ponudaDugme{
+    background-color: #f5ebeb;
+}
+.ponudaCena{
+    color: #f5ebeb;
+    font-size: large;
+    font-weight: 500;
+}
+#ponudaPaketiTekst{
+    color: #40687d;
+}
+.roze{
+    
+    color: #96616b;
+}
+td{
+    color: #193f51;
+    font-weight: 600;
+    font-size: larger;
+}
+#logoTekst{
+    font-size:xx-large;
+    text-shadow: 2px 2px 10px black;
+    color:#40687d;
+}
+footer p{
+    color: #40687d;
+    font-size: larger;
+}
+
+.col-lg-3 p{
+    color: #40687d;
+}
+#opisPrelaz{
+    color: #f5ebeb;
+}
+#opisIspod
+{
+    color: #96616b;
+}
